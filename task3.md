@@ -22,4 +22,6 @@ For the second contribution - the authors evaluate 14 models, and found that:
 - **predictability** - models have become more predictable;
 - **safety** - newest models have significantly lower violation rates, and violations that do occur are mostly of low-moderate severity. However, the threat of high-stakes violations remains (such as the 2025 Replit's AI incident).
 
+According to the authors, the findings suggest that "_improving raw task performance may not be sufficient for building dependable AI agents_".
+
 Finally, the evaluation framework as it is proposed may have different framings or decompositions. The authors claim that instead the most important idea is the "core shift in perspective", upon which further work in the field of AI agent evaluation can build upon.
